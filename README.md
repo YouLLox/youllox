@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youllox&show_icons=true&theme=dark&locale=en" alt="youllox" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youllox&" alt="youllox" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouLLox&layout=compact&theme=dark" alt="youllox" /></p>
