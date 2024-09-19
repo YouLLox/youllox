@@ -1,4 +1,4 @@
-# Hi I'm YouLLox ![Hi]([https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif))
+# Hi I'm YouLLox ![Hi][https://raw.githubusercontent.com/MartinHeinz]()
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/youllox) 
 
